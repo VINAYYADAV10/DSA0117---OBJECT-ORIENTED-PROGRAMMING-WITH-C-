@@ -1,0 +1,4 @@
+205 false
+11:59 vs 12:01 -> 2 true false
+12:00 vs 12:00 -> 0 false false
+00:00 vs 23:59 -> 1439 true

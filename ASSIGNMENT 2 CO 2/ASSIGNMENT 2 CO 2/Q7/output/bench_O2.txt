@@ -1,0 +1,5 @@
+2000000 transactions per run (best of 3)
+K=10	 shift: 17.9842 ms	 circular: 3.50434 ms	 speed-up x5.132	 identical statement: yes	 moves/txn (shift): 8.99999
+K=50	 shift: 30.3789 ms	 circular: 3.8214 ms	 speed-up x7.94968	 identical statement: yes	 moves/txn (shift): 48.9996
+K=500	 shift: 124.982 ms	 circular: 5.5696 ms	 speed-up x22.44	 identical statement: yes	 moves/txn (shift): 498.958
+K=5000	 shift: 323.129 ms	 circular: 0.587437 ms	 speed-up x550.066	 identical statement: yes	 moves/txn (shift): 4957.34

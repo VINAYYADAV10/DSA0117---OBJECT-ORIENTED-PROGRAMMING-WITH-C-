@@ -1,0 +1,8 @@
+  inside value fn : 40500
+stored fee after value   : 45000
+stored fee after ref     : 40500
+stored fee after pointer : 40500
+three concessions in place : 25819
+three concessions returned : 25819 (original still 45000)
+sizeof(long long) = 8, sizeof(Student) = 272 bytes
+20,000,000 calls  by value: 302.165 ms, by ref: 47.6475 ms, by const ref: 47.1366 ms (checksum 600005370000000)

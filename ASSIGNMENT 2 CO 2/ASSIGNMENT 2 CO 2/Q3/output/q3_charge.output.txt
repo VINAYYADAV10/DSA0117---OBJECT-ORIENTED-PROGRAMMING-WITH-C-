@@ -1,0 +1,6 @@
+[grams version]  0.10  <- charge(2)
+[kg version]     100.00  <- charge(2.0f)
+[kg version]     125.00  <- charge(2.5)
+[grams version]  165.00  <- charge(2500, true)
+[Parcel version] 165.00  <- charge(p)
+[kg version]     185.00  <- charge(2.5, true, true)

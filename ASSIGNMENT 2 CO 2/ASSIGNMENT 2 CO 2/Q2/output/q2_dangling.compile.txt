@@ -1,0 +1,7 @@
+Q2/q2_dangling.cpp: In function 'int& bad()':
+Q2/q2_dangling.cpp:5:12: warning: reference to local variable 'local' returned [-Wreturn-local-addr]
+    5 |     return local;          // reference to a local variable
+      |            ^~~~~
+Q2/q2_dangling.cpp:4:9: note: declared here
+    4 |     int local = 42;
+      |         ^~~~~

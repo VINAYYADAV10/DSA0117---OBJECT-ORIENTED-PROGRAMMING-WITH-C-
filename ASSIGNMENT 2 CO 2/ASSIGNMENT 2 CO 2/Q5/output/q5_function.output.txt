@@ -1,0 +1,10 @@
+Asha: Seat 1
+Bala: Seat 2
+  (ticket of Bala destroyed)
+  (ticket of Asha destroyed)
+Issued after call 1: 2
+Chitra: Seat 3
+Dev: Waiting
+  (ticket of Dev destroyed)
+  (ticket of Chitra destroyed)
+Issued after call 2: 3

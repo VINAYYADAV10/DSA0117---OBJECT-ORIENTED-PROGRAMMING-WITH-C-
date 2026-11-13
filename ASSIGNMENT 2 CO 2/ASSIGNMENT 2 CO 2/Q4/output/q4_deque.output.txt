@@ -1,0 +1,12 @@
+Mini-statement for account 1001
+  1. Deposit         300
+  2. Deposit         400
+  3. Deposit         500
+  4. Deposit         600
+  5. Deposit         700
+  6. Deposit         800
+  7. Withdrawal      250
+  8. Withdrawal      300
+  9. Deposit        1000
+ 10. Withdrawal       50
+Balance: 9000

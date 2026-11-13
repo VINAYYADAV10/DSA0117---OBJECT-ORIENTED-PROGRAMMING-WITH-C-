@@ -1,0 +1,2 @@
+charge(2L) with charge(int,bool) and charge(double,bool):
+error: call of overloaded 'charge(long int)' is ambiguous

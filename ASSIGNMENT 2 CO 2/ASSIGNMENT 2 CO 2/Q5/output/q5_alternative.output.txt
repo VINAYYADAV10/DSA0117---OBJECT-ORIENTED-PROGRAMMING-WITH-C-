@@ -1,0 +1,6 @@
+Asha: Seat 1
+Bala: Seat 2
+Chitra: Waiting
+Dev: Seat 1
+Esha: Seat 2
+Bus1 issued: 2, Bus2 issued: 2

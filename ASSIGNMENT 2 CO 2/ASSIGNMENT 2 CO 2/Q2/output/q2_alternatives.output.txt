@@ -1,0 +1,6 @@
+highest after three +2 : 97 (expected 97)
+buffer moved      : true
+index still valid : 97
+pointer valid?    : false
+reference valid?  : false
+n=5,000,000 x20 : index 510.641 ms, pointer 635.694 ms, reference 520.052 ms (51384900)

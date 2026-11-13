@@ -1,0 +1,6 @@
+10,000,000 calls (best of 5), ms:
+friend, inline      : 12.8615
+friend, noinline    : 14.8003
+member minutesTo    : 13.1847
+public getters      : 15.9699
+checksum 102632831840

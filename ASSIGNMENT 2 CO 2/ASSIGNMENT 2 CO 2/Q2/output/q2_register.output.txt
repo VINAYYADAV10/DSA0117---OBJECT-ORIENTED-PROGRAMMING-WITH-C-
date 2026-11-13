@@ -1,0 +1,10 @@
+original            : 62 78 91 55 84 
+after highest()+=2  : 62 78 93 55 84 
+after highest()=95  : 62 78 95 55 84 
+after copy += 5     : 62 78 95 55 84 
+const reference read: 95
+
+capacity before growth: 3
+capacity after growth : 24
+buffer moved          : true
+r still refers to v[2]: false  (false => r is dangling)
