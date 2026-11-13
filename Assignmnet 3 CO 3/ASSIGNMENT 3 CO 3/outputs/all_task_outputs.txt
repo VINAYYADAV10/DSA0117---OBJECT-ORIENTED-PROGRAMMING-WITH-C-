@@ -1,0 +1,52 @@
+Compiler:
+g++ (Debian 14.2.0-19) 14.2.0
+
+===== Task01/constructors.cpp =====
+$ constructors
+Untitled | Unknown | copies: 0
+C++ Basics | Unknown | copies: 1
+Object Oriented Programming | B. Stroustrup | copies: 5
+Rejected: copies cannot be negative
+
+===== Task02/prescription.cpp =====
+$ prescription
+Copy constructor called
+Ibuprofen ORS | Paracetamol Cetirizine | Paracetamol ORS
+
+===== Task03/auditorium.cpp =====
+$ auditorium
+Event created: 2 x 3
+Event created: 1 x 2
+Event closed. Seats booked: 1
+Event created: 2 x 2
+Event closed. Seats booked: 1
+Event created: 0 x 0
+Event closed. Seats booked: 0
+Event closed. Seats booked: 1
+
+===== Task04/money.cpp =====
+$ money
+Rs 200.00
+true
+Rs 1.25
+Rs -1.00
+
+===== Task05/time_playlist.cpp =====
+$ time_playlist
+0:59:58 | 1:00:00 | 1:00:00
+Song A / Song C
+Error: track index
+
+===== Task06/text_class.cpp =====
+$ text_class
+
+Hello C++!
+empty=[]
+true
+
+===== Task07/complex_impedance.cpp =====
+$ complex_impedance
+Series impedance: 10 - j5
+Series magnitude: 11.1803
+Parallel R-L: 2 + j4
+Error: division by zero impedance

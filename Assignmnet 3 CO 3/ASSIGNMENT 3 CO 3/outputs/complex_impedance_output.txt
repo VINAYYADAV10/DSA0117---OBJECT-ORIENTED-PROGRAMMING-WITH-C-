@@ -1,0 +1,4 @@
+Series impedance: 10 - j5
+Series magnitude: 11.1803
+Parallel R-L: 2 + j4
+Error: division by zero impedance

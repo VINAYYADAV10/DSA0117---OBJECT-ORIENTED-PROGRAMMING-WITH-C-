@@ -1,0 +1,4 @@
+Untitled | Unknown | copies: 0
+C++ Basics | Unknown | copies: 1
+Object Oriented Programming | B. Stroustrup | copies: 5
+Rejected: copies cannot be negative
